@@ -1,5 +1,5 @@
 # ☁ HostsBlocker
-> Modifies the hosts file in Windows to block known websites that are used to host malware and other harmful practices.
+> Modifies the hosts file in Windows to block known websites that are used to host malware & spam.
 
 ![GitHub](https://img.shields.io/github/license/moziIIa/blocker)
 ![Release Downloads](https://img.shields.io/github/downloads/moziIIa/blocker/total)
